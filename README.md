@@ -4,9 +4,9 @@
 
 ## I'm a Student, Developer and Engineer!!
 
-=🌱 I’m currently learning everything 🤣
-=👯 I’m looking to collaborate with other content creators
-=🥅 2024 Goals: Expertise in web development
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2024 Goals: Expertise in web development
 
 
 
