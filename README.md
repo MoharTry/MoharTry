@@ -1,24 +1,5 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-<!--
-**MoharTry/MoharTry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 <img alt="Hi 🖐 , I am Mohar Tryambake" src="header.png" />
 
-<img align = "right" alt ="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2m_hM7-ws1KpUhTVEBjwC5&ust=1701069387114000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCih-uP4YIDFQAAAAAdAAAAABAR">
 
 
 ## I'm a Student, Developer and Engineer!!
@@ -31,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m0har) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohar-tryambake-8bb510236) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discordapp.com/users/903957690731073588)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m0har) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohar-tryambake-8bb510236)
 
 
 
@@ -47,12 +28,5 @@ Here are some ideas to get you started:
 
 <!--END_SECTION:activity-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoharTry/MoharTry/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoharTry/MoharTry/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MoharTry/MoharTry/output/github-contribution-grid-snake.svg">
-</picture>
-
 <br/>
 <br/>
->>>>>>> 80abcfb (Readme)
