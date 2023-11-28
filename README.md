@@ -4,13 +4,13 @@
 
 ## I'm a Student, Developer and Engineer!!
 
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with content creators
-🥅 2024 Goals: Expertise in web development
+-🌱 I’m currently learning everything 🤣
 
-<div style="float: right; margin-right: 0px; margin-top: -100px;">
-  <img src="chilled-lamb-mienar.gif" width="200">
-</div>
+-👯 I’m looking to collaborate with content creators
+
+-🥅 2024 Goals: Expertise in web development
+
+
 
 
 
