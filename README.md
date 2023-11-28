@@ -10,11 +10,9 @@
 
 -🥅 2024 Goals: Expertise in web development
 
-
-
-
-
-
+&nbsp;<div align="center">
+   <img src="https://novatorem-alpha-lovat-39.vercel.app/api/spotify/?background_color=000000&border_color=ffffff&font_color=000000" alt="codeSTACKr Spotify Playing" width="350" />
+</div>
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m0har) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohar-tryambake-8bb510236)
