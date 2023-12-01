@@ -1,4 +1,4 @@
-<img alt="Hi 🖐 , I am Mohar Tryambake" src="header.png" />
+<img alt="Hi 🖐 , I am Mohar Tryambake" src="github-header-image.png" />
 
 
 
