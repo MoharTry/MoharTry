@@ -74,6 +74,11 @@ margin-right: 10px;">
 </p>
 </div>
 </div>
+
+<h2> Recent Activity</h2>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 </body>
 </html>
 
