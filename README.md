@@ -15,7 +15,7 @@
 </div>
 
 <span align="center">
-<img src="https://komarev.com/ghpvc/?username=MoharTry&style=for-the-badge&base=42" />
+<img src="https://komarev.com/ghpvc/?username=MoharTry&style=for-the-badge" />
 </span>
 
 <h2>Connect with me:</h2>
