@@ -6,7 +6,7 @@
 <h2>I'm a Student, Developer and Engineer!!</h2>
     <ul>
         <li>🌱 I’m currently learning everything 🤣</li>
-        <li>👯 I’m looking to collaborate with content creators</li>
+        <li>👯 I’m looking to collaborate with creators</li>
         <li>🥅 2024 Goals: Expertise in web development</li>
     </ul>
 
