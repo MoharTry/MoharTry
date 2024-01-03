@@ -27,7 +27,7 @@
    </a>
 
 <h2>GitHub Stats:</h2>
-<img src="https://github-readme-stats-chi-five-97.vercel.app/api?username=mohartry&theme=blue-green&show_icons=true" alt="MoharTry's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohartry&theme=blue-green&show_icons=true" alt="MoharTry's GitHub stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoharTry&theme=blue-green&hide_border=false" />
 
 <h2>Tech Stack:</h2>
