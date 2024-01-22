@@ -28,6 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoharTry&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MoharTry&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
