@@ -4,7 +4,7 @@
     <img alt="Hi 🖐 , I am Mohar Tryambake" src="github-header-image.png" />
 
 
-# 💫 About M:
+# 💫 About Me:
 🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with creators<br>🥅 2024 Goals: Expertise in web development
 
 
