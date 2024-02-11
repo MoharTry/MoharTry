@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’ currently learning everything 🤣<br>👯 I’m looking to collaborate with creators<br>🥅 2024 Goals: Expertise in web development
+🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with creators<br>🥅 2024 Goals: Expertise in web development
 
 
 <div align="center">
