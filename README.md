@@ -8,10 +8,6 @@
 🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with creators<br>🥅 2024 Goals: Expertise in web development
 
 
-<div align="center">
-<img src="https://novatorem-alpha-lovat-39.vercel.app/api/spotify/?background_color=000000&border_color=ffffff&font_color=000000" alt="codeSTACKr Spotify Playing" width="350" />
-</div>
-
 <span align="center">
 <img src="https://komarev.com/ghpvc/?username=MoharTry&style=for-the-badge&base=42" />
 </span>
